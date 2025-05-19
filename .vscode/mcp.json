@@ -1,0 +1,12 @@
+{
+  "servers": {
+    "motherduck": {
+      "command": "uvx",
+      "args": [
+        "mcp-server-motherduck",
+        "--db-path",
+        "/Path/to/meetup-mcp-duck/data/ecommerce.duckdb"
+      ]
+    }
+  }
+}
